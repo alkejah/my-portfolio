@@ -19,7 +19,7 @@ const pricingPlans = [
     icon: GraduationCap,
     features: [
       "Responsive website",
-      "Up to 3 pages",
+      "Up to 5 pages",
       "Basic deployment",
       "Email support",
     ],
